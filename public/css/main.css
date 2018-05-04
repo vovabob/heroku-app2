@@ -1,9 +1,10 @@
 body {
      margin: 0;
      padding: 0;
-     background-color: lightgray;
+     background-color: lightblue;
 }
 
 h1 {
-   color: "teal";
+   color: #996633;
+   background-color: #336699;
 }
